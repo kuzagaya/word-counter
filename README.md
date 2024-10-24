@@ -1,8 +1,23 @@
-# React + Vite
+# Word Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fword-counter-kuzagaya.vercel.app)](https://word-counter-kuzagaya.vercel.app)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Word Counter is a web-based application designed to track user post analytics. It provides insights into word counts, and can be useful for monitoring blog posts, articles, or social media content for analytical purposes. Built using React and Vite, the project ensures a modern, responsive, and efficient user experience.
+
+## Features
+
+- **Word Count Analytics**: Get detailed information on the number of words in user posts.
+- **Real-time Results**: Word counting and analysis are performed in real-time.
+- **Responsive Design**: Optimized for use across various devices and screen sizes.
+
+## Demo
+
+Check out the live demo: [Word Counter App](https://word-counter-kuzagaya.vercel.app)
+
+## Tech Stack
+
+- **Frontend**: React, HTML, CSS
+- **Build Tool**: Vite
+- **Linting**: ESLint
